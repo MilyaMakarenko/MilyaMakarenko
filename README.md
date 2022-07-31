@@ -9,7 +9,7 @@ I'm currently looking for a job as Data Analyst
 
 ##  My technology stack: 
 
-*SQL*, *Python*, Pandas, NumPy, Matplotlib, Seaborn, MathCAD, 3D Max, AutoCAD, Creo
+**SQL**, **Python**, Pandas, NumPy, Matplotlib, Seaborn, MathCAD, 3D Max, AutoCAD, Creo
 
 Jupyter Notebook, PyCharm, Tableau, Redash, Jupyter Hub, Git, ClickHouse, PostgreSQL
 
