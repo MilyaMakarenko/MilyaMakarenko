@@ -17,11 +17,12 @@ Jupyter Notebook, PyCharm, Tableau, Redash, AirFlow, Jupyter Hub, Git, ClickHous
 
 ## Education
 
-    Design SNPP    Moscow Aviation Institute   2017
     Data Analytics    karpov.courses   2022 - until now
+    
     Introduction to DS and ML   Stepik   2022
-    Statistics    Stepik   2021
     Generation - Python    Stepik   2022
+    Statistics    Stepik   2021
+    Design SNPP    Moscow Aviation Institute   2017
     ... etc.
    
 ## About me
