@@ -9,9 +9,10 @@ I'm currently looking for a job as Data Analyst
 
 ##  My technology stack: 
 
-**SQL**, **Python**, Pandas, NumPy, Matplotlib, Seaborn
+**SQL**, **Python**, Git,  AirFlow, Tableau, Redash
 
-Jupyter Notebook, PyCharm, Tableau, Redash, AirFlow, Jupyter Hub, Git, ClickHouse, PostgreSQL
+Pandas, NumPy, Matplotlib, Seaborn
+
 
 
 
