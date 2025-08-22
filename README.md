@@ -9,9 +9,9 @@ I'm currently looking for a job as Data Analyst
 
 ##  My technology stack: 
 
-**SQL**, **Python**, Git,  AirFlow, Tableau, Redash
+**SQL**, **Python**, Git,  AirFlow, Tableau, Redash, Docker
 
-Pandas, NumPy, Matplotlib, Seaborn
+Pandas, NumPy, Matplotlib, Seaborn, Pytorch, TensorFlow
 
 
 
