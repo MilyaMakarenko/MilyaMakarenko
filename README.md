@@ -3,7 +3,7 @@ I'm currently looking for a job as Data Analyst
 
 ---
 🔎 You can find me here:
-[Telegram](https://t.me/MilyaMoscow), [Gmail](abdullinascience@gmail.com)
+[Telegram](https://t.me/MinemIsememBu), [Gmail](abdullinascience@gmail.com)
 
 
 
@@ -55,5 +55,5 @@ I can calculate the main product metrics and apply them to solve analytical prob
 ![изображение](https://user-images.githubusercontent.com/97680698/167293233-0c3c0b20-81f7-475b-8d1b-ac3cd29cf88c.png)
 
 
-Connect by [Telegram](https://t.me/MilyaMoscow), [Gmail](abdullinascience@gmail.com)
+Connect by [Telegram](https://t.me/MinemIsememBu), [Gmail](abdullinascience@gmail.com)
 
