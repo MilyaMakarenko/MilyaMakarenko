@@ -54,6 +54,9 @@ I can calculate the main product metrics and apply them to solve analytical prob
 
 ![изображение](https://user-images.githubusercontent.com/97680698/167293233-0c3c0b20-81f7-475b-8d1b-ac3cd29cf88c.png)
 
+<img width="679" height="483" alt="image" src="https://github.com/user-attachments/assets/4497ca84-1096-4c20-9121-980dc73bc6e4" />
+
+
 
 ![изображение](https://user-images.githubusercontent.com/97680698/167293233-0c3c0b20-81f7-475b-8d1b-ac3cd29cf88c.png](https://lab.karpov.courses/certificate/b3249b80-dd6e-4609-aeb6-5bd35550ac09/en/)
 
