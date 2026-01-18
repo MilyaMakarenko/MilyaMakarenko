@@ -61,15 +61,11 @@ I can calculate the main product metrics and apply them to solve analytical prob
 <img width="1228" height="866" alt="M" src="https://github.com/user-attachments/assets/1930b60d-249f-4f4c-8c04-3019b1223db6" />
 <img width="691" height="340" alt="image" src="https://github.com/user-attachments/assets/f4702190-e820-423d-86f7-fe38d1912b06" />
 
+<img width="1237" height="855" alt="image" src="https://github.com/user-attachments/assets/1721ba97-3e9c-479f-8446-7a5a313fcd62" />
 
 
 
 
 
-![изображение](https://user-images.githubusercontent.com/97680698/167293233-0c3c0b20-81f7-475b-8d1b-ac3cd29cf88c.png](https://lab.karpov.courses/certificate/b3249b80-dd6e-4609-aeb6-5bd35550ac09/en/)
-
-
-
-
-Connect by [Telegram](https://t.me/MinemIsememBu), [Gmail](abdullinascience@gmail.com)
+onnect by [Telegram](https://t.me/MinemIsememBu), [Gmail](abdullinascience@gmail.com)
 
