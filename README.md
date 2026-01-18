@@ -64,8 +64,5 @@ I can calculate the main product metrics and apply them to solve analytical prob
 <img width="1237" height="855" alt="image" src="https://github.com/user-attachments/assets/1721ba97-3e9c-479f-8446-7a5a313fcd62" />
 
 
-
-
-
 onnect by [Telegram](https://t.me/MinemIsememBu), [Gmail](abdullinascience@gmail.com)
 
