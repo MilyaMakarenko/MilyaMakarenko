@@ -9,9 +9,9 @@ I'm currently looking for a job as Data Analyst
 
 ##  My technology stack: 
 
-**SQL**, **Python**, Git,  AirFlow, Tableau, Redash, Docker
+**SQL**, **Python**, **Snowflake**, **AWS**, Git,  AirFlow, Tableau, Redash, Docker
 
-Pandas, NumPy, Matplotlib, Seaborn, Pytorch, TensorFlow
+Pandas, NumPy, PySpark, Matplotlib, Seaborn, Pytorch, TensorFlow
 
 
 
@@ -28,7 +28,7 @@ Pandas, NumPy, Matplotlib, Seaborn, Pytorch, TensorFlow
    
 ## About me
 
-I am currently looking for a job as Data Analyst.
+I am currently looking for a job as Data Engineer.
 
 Now I teach mathematics and study data analysis in karpov.courses
 
