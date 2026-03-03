@@ -1,4 +1,4 @@
-I'm currently looking for a job as Data Analyst
+I'm currently looking for a job as Data Engineer
 
 
 ---
