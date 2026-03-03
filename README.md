@@ -20,12 +20,12 @@ Pandas, NumPy, PySpark, Matplotlib, Seaborn, Pytorch, TensorFlow
 
     Advanced Data Engineering with Snowflake    2026
     
-    Data Analytics Engineering - EPAM
-    Data Analytics    karpov.courses   2022 - 2023 
-    Introduction to DS and ML   Stepik   2022
-    Generation - Python    Stepik   2022
-    Statistics    Stepik   2021
-    Design SNPP    Moscow Aviation Institute   2017
+    Data Analytics Engineering - EPAM           2026
+    Data Analytics    karpov.courses     2022 - 2023 
+    Introduction to DS and ML   Stepik          2022
+    Generation - Python    Stepik               2022
+    Statistics    Stepik                        2021
+    Design SNPP    Moscow Aviation Institute    2017
     ... etc.
    
 ## About me
