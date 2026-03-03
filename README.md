@@ -18,8 +18,10 @@ Pandas, NumPy, PySpark, Matplotlib, Seaborn, Pytorch, TensorFlow
 
 ## Education
 
-    Data Analytics    karpov.courses   2022 - until now
+    Advanced Data Engineering with Snowflake    2026
     
+     with EPAM
+    Data Analytics    karpov.courses   2022 - 2023 
     Introduction to DS and ML   Stepik   2022
     Generation - Python    Stepik   2022
     Statistics    Stepik   2021
