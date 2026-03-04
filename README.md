@@ -43,6 +43,8 @@ and also know the methods of bootstrap analysis,
 
 I can calculate the main product metrics and apply them to solve analytical problems
 
+<img width="1134" height="856" alt="image" src="https://github.com/user-attachments/assets/14ccc7a8-3246-46b4-bdfe-65f2a86ddb20" />
+
 <img width="1127" height="852" alt="image" src="https://github.com/user-attachments/assets/67e06d58-e276-4c8b-9a07-b7fafd5f7afc" />
 
 
