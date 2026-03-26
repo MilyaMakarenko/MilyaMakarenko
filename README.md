@@ -9,7 +9,7 @@ I'm currently looking for a job as Data Engineer
 
 ##  My technology stack: 
 
-**SQL**, **Python**, **Snowflake**, **AWS**, Git,  AirFlow, Tableau, Redash, Docker
+**SQL**, **Python**, **Snowflake**, **AWS**, Git, dbt, AirFlow, Tableau, Redash, Docker
 
 Pandas, NumPy, PySpark, Matplotlib, Seaborn, Pytorch, TensorFlow
 
